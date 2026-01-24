@@ -10,12 +10,8 @@
 ---
 
 ## 🌷 About Me
-- 🎓 Informatics student focusing on **web development**
-- 🎮 **Game Developer**, interested in game mechanics & interactive systems
-- 🤖 Exploring **robotics**, **ROS 2**, and **computer vision**
-- 👁️ Working with **YOLO & OpenCV** for object detection
-- 🎨 Freelance **digital illustrator** (character & logo design)
-- ✨ Enjoy learning by building real projects where **logic meets creativity**
+I am an Informatics student who is also interested in Digital Illustration.
+I enjoy learning by building real projects where **logic meets creativity**!
 
 ---
 
