@@ -1,16 +1,75 @@
-## Hi there 👋
+<div align="center">
+
+# ✨ Hi, I'm Ruth ✨
+
+🌸 Informatics Student | 💻 Web Developer | 🎮 Game Developer  
+🤖 Robotics & Computer Vision | 🎨 Digital Illustrator  
+
+</div>
+
+---
+
+## 🌷 About Me
+- 🎓 Informatics student focusing on **web development**
+- 🎮 **Game Developer**, interested in game mechanics & interactive systems
+- 🤖 Exploring **robotics**, **ROS 2**, and **computer vision**
+- 👁️ Working with **YOLO & OpenCV** for object detection
+- 🎨 Freelance **digital illustrator** (character & logo design)
+- ✨ Enjoy learning by building real projects where **logic meets creativity**
+
+---
+
+### 🧸 Tech & Tools
+
+**Programming**  
+![Python](https://img.shields.io/badge/Python-ffe4ec?style=flat&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-ffe4ec?style=flat&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-ffe4ec?style=flat&logo=c%2B%2B&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffe4ec?style=flat&logo=javascript&logoColor=F7DF1E)
+
+**Web Development**  
+![HTML](https://img.shields.io/badge/HTML-ffe4ec?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-ffe4ec?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/Git-ffe4ec?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-ffe4ec?style=flat&logo=github)
+
+**Game Development**  
+![Unity](https://img.shields.io/badge/Unity-ffe4ec?style=flat&logo=unity)
+![Godot](https://img.shields.io/badge/Godot-ffe4ec?style=flat&logo=godot-engine)
+
+**Robotics & Computer Vision**  
+![OpenCV](https://img.shields.io/badge/OpenCV-ffe4ec?style=flat&logo=opencv)
+![YOLO](https://img.shields.io/badge/YOLO-ffe4ec?style=flat)
+![ROS2](https://img.shields.io/badge/ROS2-ffe4ec?style=flat&logo=ros)
+![Webots](https://img.shields.io/badge/Webots-ffe4ec?style=flat)
+
+**Design & Illustration**  
+![ibisPaintX](https://img.shields.io/badge/ibisPaintX-ffe4ec?style=flat)
+![Canva](https://img.shields.io/badge/Canva-ffe4ec?style=flat&logo=canva)
+![Figma](https://img.shields.io/badge/Figma-ffe4ec?style=flat&logo=figma)
 
 <!--
-**ruthhhs/ruthhhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 📊 GitHub Stats
+<div align="center">
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruthhhs&show_icons=true&theme=rose_pine)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthhhs&layout=compact&theme=rose_pine)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div>
 -->
+
+---
+
+## 💌 Let's Connect
+- 🌐 Portfolio: _coming soon_
+- 🎨 Illustration: _comming soon_
+- 💬 GitHub: you're already here ✨
+
+---
+
+<div align="center">
+
+🌸 *Keep learning, keep creating, keep dreaming.* 🌸
+
+</div>
