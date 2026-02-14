@@ -1,6 +1,6 @@
 <div align="center">
 
-## ✨ Hi, I'm Ruth ✨
+# ✨ Hi, I'm Ruth ✨
 
 🌸 Informatics Student | 💻 Web Developer | 🎮 Game Developer | 🎨 Digital Illustrator  
 
@@ -39,15 +39,6 @@ I enjoy learning by building real projects where **logic meets creativity**!
 ![ibisPaintX](https://img.shields.io/badge/ibisPaintX-ffe4ec?style=flat)
 ![Canva](https://img.shields.io/badge/Canva-ffe4ec?style=flat&logo=canva)
 ![Figma](https://img.shields.io/badge/Figma-ffe4ec?style=flat&logo=figma)
-
----
-### 📊 GitHub Stats
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruthhhs&show_icons=true&theme=rose_pine)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthhhs&layout=compact&theme=rose_pine)
-
-</div>
 
 ---
 
