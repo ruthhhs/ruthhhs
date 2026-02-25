@@ -2,14 +2,12 @@
 
 # ✨ Hi, I'm Ruth ✨
 
-🌸 Informatics Student | 💻 Web Developer | 🎮 Game Developer | 🎨 Digital Illustrator  
-
 </div>
 
----
+## 🌷 About Me
+I am an Informatics student who is curently studying Web Dev, Game Dev, adn Computer Vision.
 
-### 🌷 About Me
-I am an Informatics student who is also interested in Digital Illustration.
+I am also interested in Design and Illustration.
 
 I enjoy learning by building real projects where **logic meets creativity**!
 
@@ -26,8 +24,6 @@ I enjoy learning by building real projects where **logic meets creativity**!
 **Other Programming Tools**  
 ![HTML](https://img.shields.io/badge/HTML-ffe4ec?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-ffe4ec?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/Git-ffe4ec?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-ffe4ec?style=flat&logo=github)
 ![Oracle](https://img.shields.io/badge/Oracle-ffe4ec?style=flat&logo=oracle)
 ![SQL](https://img.shields.io/badge/SQL-ffe4ec?style=flat&logo=sql)
 ![Unity](https://img.shields.io/badge/Unity-ffe4ec?style=flat&logo=unity)
@@ -42,7 +38,7 @@ I enjoy learning by building real projects where **logic meets creativity**!
 
 ---
 
-## 💌 Let's Connect
+### 💌 Let's Connect
 - 🌐 Portfolio: _coming soon_
 - 🎨 Illustration: _comming soon_
 - 💬 GitHub: you're already here ✨
