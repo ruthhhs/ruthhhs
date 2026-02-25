@@ -5,7 +5,7 @@
 </div>
 
 ## 🌷 About Me
-I am an Informatics student who is curently studying Web Dev, Game Dev, adn Computer Vision.
+I am an Informatics student who is curently studying Web Dev, Game Dev, and Computer Vision.
 
 I am also interested in Design and Illustration.
 
