@@ -15,26 +15,29 @@ I enjoy learning by building real projects where **logic meets creativity**!
 
 ### 🧸 Tech & Tools
 
-**Programming Language**  
-![Python](https://img.shields.io/badge/Python-ffe4ec?style=flat&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-ffe4ec?style=flat&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-ffe4ec?style=flat&logo=c%2B%2B&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffe4ec?style=flat&logo=javascript&logoColor=F7DF1E)
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-ffe4ec?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-ffe4ec?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-ffe4ec?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-ffe4ec?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffe4ec?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-**Other Programming Tools**  
-![HTML](https://img.shields.io/badge/HTML-ffe4ec?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-ffe4ec?style=flat&logo=css3)
-![Oracle](https://img.shields.io/badge/Oracle-ffe4ec?style=flat&logo=oracle)
-![SQL](https://img.shields.io/badge/SQL-ffe4ec?style=flat&logo=sql)
-![Unity](https://img.shields.io/badge/Unity-ffe4ec?style=flat&logo=unity)
-![Godot](https://img.shields.io/badge/Godot-ffe4ec?style=flat&logo=godot-engine)
-![OpenCV](https://img.shields.io/badge/OpenCV-ffe4ec?style=flat&logo=opencv)
-![YOLO](https://img.shields.io/badge/YOLO-ffe4ec?style=flat)
+### 🌐 Web & Database
+![HTML5](https://img.shields.io/badge/HTML5-ffe4ec?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-ffe4ec?style=for-the-badge&logo=css3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/MySQL-ffe4ec?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Oracle](https://img.shields.io/badge/Oracle-ffe4ec?style=for-the-badge&logo=oracle&logoColor=F80000)
 
-**Design & Illustration**  
-![ibisPaintX](https://img.shields.io/badge/ibisPaintX-ffe4ec?style=flat)
-![Canva](https://img.shields.io/badge/Canva-ffe4ec?style=flat&logo=canva)
-![Figma](https://img.shields.io/badge/Figma-ffe4ec?style=flat&logo=figma)
+### 🤖 Game Development & Computer Vision
+![Unity](https://img.shields.io/badge/Unity-ffe4ec?style=for-the-badge&logo=unity&logoColor=000000)
+![Godot](https://img.shields.io/badge/Godot-ffe4ec?style=for-the-badge&logo=godotengine&logoColor=478CBF)
+![OpenCV](https://img.shields.io/badge/OpenCV-ffe4ec?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![YOLO](https://img.shields.io/badge/YOLO-ffe4ec?style=for-the-badge)
+
+### 🎨 Design & Illustration
+![ibisPaint X](https://img.shields.io/badge/ibisPaint_X-ffe4ec?style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-ffe4ec?style=for-the-badge&logo=canva&logoColor=00C4CC)
+![Figma](https://img.shields.io/badge/Figma-ffe4ec?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ---
 
