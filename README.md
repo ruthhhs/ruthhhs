@@ -53,7 +53,7 @@ I enjoy learning by building real projects where **logic meets creativity**!
 
 
 ## 💌 Let's Connect
-- 🌐 Portfolio: _coming soon_
+- 🌐 Portfolio: <a href="https://ruthhhs.netlify.app/" target="_blank" rel="noopener noreferrer">click here!</a>
 - 🎨 Illustration: _comming soon_
 - 💬 GitHub: you're already here ✨
 
