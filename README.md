@@ -17,9 +17,6 @@ My interests include:
 - 👁️ Computer Vision
 - 🎨 Design & Illustration
 
-I enjoy learning by building real projects where **logic meets creativity**!
-
-
 ## 🧸 Tech & Tools
 
 ### 💻 Programming Languages
